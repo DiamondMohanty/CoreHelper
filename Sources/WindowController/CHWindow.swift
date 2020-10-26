@@ -7,7 +7,7 @@
 
 import Cocoa
 
-open class CHWindow: NSWindow {
+public class CHWindow: NSWindow {
     
     @IBOutlet weak var containerView: NSView!
     
