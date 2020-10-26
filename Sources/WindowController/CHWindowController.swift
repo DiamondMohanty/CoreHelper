@@ -7,7 +7,7 @@
 
 import Cocoa
 
-class CHWindowController: NSWindowController {
+open class CHWindowController: NSWindowController {
 
     var viewControllerClass: AnyClass {
         return CHViewController.self

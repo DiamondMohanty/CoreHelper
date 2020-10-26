@@ -7,7 +7,7 @@
 
 import Cocoa
 
-extension NSView {
+open extension NSView {
     
     func pinEdges(to other: NSView) {
         self.translatesAutoresizingMaskIntoConstraints = false

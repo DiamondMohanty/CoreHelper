@@ -7,7 +7,7 @@
 
 import Cocoa
 
-class CHViewController: NSViewController {
+open class CHViewController: NSViewController {
     
     weak var windowController: CHWindowController?
     
