@@ -1,7 +1,3 @@
-struct CoreHelper {
-    var text = "Hello, World!"
-}
-
 public extension NSView {
     
     func pinEdges(to other: NSView) {
