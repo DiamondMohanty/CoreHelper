@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct CHArray {
+public struct CHArray {
     
     
     
